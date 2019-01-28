@@ -2,17 +2,21 @@
 この中に画像を置いてその画像のダウンロードリンクを張ればいろいろ設定されるゾ   
 HTTPリクエストソフトを使えばリンクとjsonを書くだけでWebhooks使えるから簡単ゾ   
 悪用はなるべくしないようにオナシャス！
- - [webhookコマンド集][1] 
+
+## 使い方などのサイト集
+ - [Webhookコマンド集][1] 
  - [json書き方][3]
  - [IFTTT][2] 
  - [IFTTTの書き方][4]
-
+ 
+## WebhookURL
 青鬼鯖webhook
 https://discordapp.com/api/webhooks/500318000243539968/pvfrPehiNu3L5jKXBqioyRKASysRsR6GdSYcW_5r-igizo1Vvn4rXTKz2PYOmFnjgt-i
 
 自鯖webhook
 https://discordapp.com/api/webhooks/500239320351899648/Ysd_yM1lenFLHyY8ySlG0FBG0zgxtJaUYtRbJIZQ9gw1fx3ir4TL1QE1torh-bAdNHL6
 
+## Jsonの書き方の例
 {
   "username": "TNOK",
   "avatar_url": "https://raw.githubusercontent.com/Yuu0918/test/master/4623012-0b35b1cd-d787-4133-9351-75659d6b3b48-large.png",
