@@ -1,7 +1,11 @@
 この中に画像を置いてその画像のダウンロードリンクを張ればいろいろ設定されるゾ
 ちなみにARCっていうHTTPリクエストソフトを使えばリンクとjsonを書くだけでWebhooks使えるから簡単ゾ
 悪用はなるべくしないようにオナシャス！
-リンク集  [webhook,json用語集][1] https://ifttt.com/my_applets https://qiita.com/Eai/items/1165d08dce9f183eac74 https://kagasu.hatenablog.com/entry/2017/07/18/110848
+リンク集  
+ - [webhook,json用語集][1] 
+ - [json書き方][3]
+ - [IFTTT][2] 
+ - [IFTTTの書き方][4]
 
 青鬼鯖webhook
 https://discordapp.com/api/webhooks/500318000243539968/pvfrPehiNu3L5jKXBqioyRKASysRsR6GdSYcW_5r-igizo1Vvn4rXTKz2PYOmFnjgt-i
@@ -61,3 +65,6 @@ https://discordapp.com/api/webhooks/500239320351899648/Ysd_yM1lenFLHyY8ySlG0FBG0
 
 
 [1]:https://discordapp.com/developers/docs/resources/webhook
+[2]:https://ifttt.com/my_applets
+[3]:https://qiita.com/Eai/items/1165d08dce9f183eac74
+[4]:https://kagasu.hatenablog.com/entry/2017/07/18/110848
