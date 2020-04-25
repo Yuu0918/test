@@ -10,14 +10,8 @@ HTTPリクエストソフトを使えばリンクとjsonを書くだけでWebhoo
  - [IFTTTの書き方][4]
  
 ## WebhookURL
-~~旧青鬼鯖webhook
-https://discordapp.com/api/webhooks/500318000243539968/pvfrPehiNu3L5jKXBqioyRKASysRsR6GdSYcW_5r-igizo1Vvn4rXTKz2PYOmFnjgt-i~~
 
-企画鯖webhook
-https://discordapp.com/api/webhooks/549865052774203413/NUhMMqcACWjMOP5PS6VMDCI23befszLMhzN25oHe82kT76pQ1z-F490rjtREGvMtFc8a
-
-自鯖webhook
-https://discordapp.com/api/webhooks/500239320351899648/Ysd_yM1lenFLHyY8ySlG0FBG0zgxtJaUYtRbJIZQ9gw1fx3ir4TL1QE1torh-bAdNHL6
+Yuu#5574へ
 
 ## Jsonの書き方の例
 {
